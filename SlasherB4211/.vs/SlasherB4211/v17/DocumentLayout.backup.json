@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "F:\\GitHub\\slasherB4211\\SlasherB4211\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E5A1761-37C4-9B64-8CC2-E6DB54440932}|Assembly-CSharp.csproj|f:\\github\\slasherb4211\\slasherb4211\\assets\\hero knight - pixel art\\demo\\heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E5A1761-37C4-9B64-8CC2-E6DB54440932}|Assembly-CSharp.csproj|f:\\github\\slasherb4211\\slasherb4211\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5A1761-37C4-9B64-8CC2-E6DB54440932}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A1761-37C4-9B64-8CC2-E6DB54440932}|Assembly-CSharp.csproj|F:\\GitHub\\slasherB4211\\SlasherB4211\\assets\\hero knight - pixel art\\demo\\heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E5A1761-37C4-9B64-8CC2-E6DB54440932}|Assembly-CSharp.csproj|solutionrelative:assets\\hero knight - pixel art\\demo\\heroknight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "F:\\GitHub\\slasherB4211\\SlasherB4211\\Assets\\scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerMove.cs",
+              "ToolTip": "F:\\GitHub\\slasherB4211\\SlasherB4211\\Assets\\scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:49:27.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HeroKnight.cs",
               "DocumentMoniker": "F:\\GitHub\\slasherB4211\\SlasherB4211\\Assets\\Hero Knight - Pixel Art\\Demo\\HeroKnight.cs",
               "RelativeDocumentMoniker": "Assets\\Hero Knight - Pixel Art\\Demo\\HeroKnight.cs",
@@ -30,8 +47,7 @@
               "RelativeToolTip": "Assets\\Hero Knight - Pixel Art\\Demo\\HeroKnight.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:42:17.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:42:17.667Z"
             }
           ]
         }
